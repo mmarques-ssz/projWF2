@@ -1,0 +1,7 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF2\projWF2\bin\Debug\projWF2.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF2\projWF2\bin\Debug\projWF2.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF2\projWF2\obj\x86\Debug\projWF2.frmSomar.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF2\projWF2\obj\x86\Debug\projWF2.Properties.Resources.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF2\projWF2\obj\x86\Debug\projWF2.csproj.GenerateResource.Cache
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF2\projWF2\obj\x86\Debug\projWF2.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF2\projWF2\obj\x86\Debug\projWF2.pdb
